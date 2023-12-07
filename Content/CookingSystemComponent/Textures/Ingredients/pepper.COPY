@@ -1,0 +1,48 @@
+Begin Object Class=/Script/Engine.Material Name="pepper"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color.pepper_Base_Color"'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=FCCC2BD34B0FBA5E945EADA0B7698AAF
+      Material=Material'"pepper"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'"/Game/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness.pepper_Roughness"'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-210
+      MaterialExpressionGuid=C2CB539E4853DFEE742D55B303C0BDA1
+      Material=Material'"pepper"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL.pepper_Normal_OpenGL"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=A22798E54CC8FD00A8618C93A67B8EF5
+      Material=Material'"pepper"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=289596E14169048C1825F8825A53CB86
+   CachedExpressionData=(ReferencedTextures=(Texture2D'"/Game/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color.pepper_Base_Color"',Texture2D'"/Game/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness.pepper_Roughness"',Texture2D'"/Game/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL.pepper_Normal_OpenGL"'),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=ABB41C8446B325C370F5D5A7FD58645D
+   ReferencedTextureGuids(1)=3CF4920E4C589BEB84540686E948B5A8
+   ReferencedTextureGuids(2)=9D38F7734753A7F70DF1BCA61E33F4E0
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=414A53D84E80E341B449FDA83D842265
+End Object
