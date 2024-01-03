@@ -1,0 +1,1754 @@
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 3
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 4
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 6
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 7
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 8
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 9
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 10
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 11
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 12
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 13
+"../../../Engine/Content/BasicShapes/Cone.uasset" 14
+"../../../Engine/Content/BasicShapes/Cone.uexp" 15
+"../../../Engine/Content/BasicShapes/Cube.uasset" 16
+"../../../Engine/Content/BasicShapes/Cube.uexp" 17
+"../../../Engine/Content/BasicShapes/Plane.uasset" 18
+"../../../Engine/Content/BasicShapes/Plane.uexp" 19
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 20
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 21
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 22
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 23
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 24
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uexp" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 27
+"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 28
+"../../../Engine/Content/BufferVisualization/Anisotropy.uexp" 29
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 30
+"../../../Engine/Content/BufferVisualization/BaseColor.uexp" 31
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 32
+"../../../Engine/Content/BufferVisualization/CustomDepth.uexp" 33
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 35
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 36
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uexp" 37
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 41
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 42
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 43
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 45
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 46
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 48
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 49
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uexp" 51
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 52
+"../../../Engine/Content/BufferVisualization/CustomStencil.uexp" 53
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 54
+"../../../Engine/Content/BufferVisualization/FinalImage.uexp" 55
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 56
+"../../../Engine/Content/BufferVisualization/LightingModel.uexp" 57
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 58
+"../../../Engine/Content/BufferVisualization/MaterialAO.uexp" 59
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 60
+"../../../Engine/Content/BufferVisualization/Metallic.uexp" 61
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 62
+"../../../Engine/Content/BufferVisualization/Opacity.uexp" 63
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 64
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uexp" 65
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 66
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uexp" 67
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 68
+"../../../Engine/Content/BufferVisualization/Roughness.uexp" 69
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 70
+"../../../Engine/Content/BufferVisualization/SceneColor.uexp" 71
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 72
+"../../../Engine/Content/BufferVisualization/SceneDepth.uexp" 73
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 74
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uexp" 75
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 76
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uexp" 77
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 78
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uexp" 79
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 80
+"../../../Engine/Content/BufferVisualization/Specular.uexp" 81
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 82
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uexp" 83
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 84
+"../../../Engine/Content/BufferVisualization/Velocity.uexp" 85
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 86
+"../../../Engine/Content/BufferVisualization/WorldNormal.uexp" 87
+"../../../Engine/Content/BufferVisualization/WorldTangent.uasset" 88
+"../../../Engine/Content/BufferVisualization/WorldTangent.uexp" 89
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 90
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 91
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 92
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 93
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 94
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uexp" 95
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 96
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uexp" 97
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 98
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uexp" 99
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 100
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 101
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 102
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 103
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 104
+"../../../Engine/Content/EditorMaterials/Cross.uexp" 105
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 106
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uexp" 107
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 108
+"../../../Engine/Content/EditorResources/T_EditorHelp.uexp" 109
+"../../../Engine/Content/EditorResources/T_EditorHelp.ubulk" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uexp" 112
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 114
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 115
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 116
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 117
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 118
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 119
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 120
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uexp" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 122
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uexp" 123
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uexp" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uexp" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.ubulk" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uexp" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uexp" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uexp" 134
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 135
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uexp" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 138
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 139
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 140
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 141
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 143
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uexp" 144
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 145
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uexp" 146
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 147
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uexp" 148
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 149
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uexp" 150
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 151
+"../../../Engine/Content/EditorMaterials/TilingAADots.uexp" 152
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 153
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uexp" 154
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 155
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uexp" 156
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 157
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uexp" 158
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 159
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uexp" 160
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 161
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uexp" 162
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 163
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uexp" 164
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 165
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uexp" 166
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 167
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 168
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 169
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 170
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 171
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uexp" 172
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 173
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uexp" 174
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 175
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 176
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 177
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 178
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 179
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 180
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 181
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 182
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 183
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 184
+"../../../Engine/Content/EditorMaterials/TargetIcon.uexp" 185
+"../../../Engine/Content/EditorMaterials/TargetIcon.ubulk" 186
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 187
+"../../../Engine/Content/EditorMaterials/Tick.uexp" 188
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 189
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uexp" 190
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 191
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uexp" 192
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.ubulk" 193
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 194
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uexp" 195
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 196
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uexp" 197
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 198
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uexp" 199
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 200
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uexp" 201
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 202
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uexp" 203
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 204
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uexp" 205
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 206
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uexp" 207
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 208
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 209
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 210
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 211
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 212
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 213
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 214
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 215
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 216
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 217
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 218
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 219
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 220
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 221
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 222
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 223
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 224
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 225
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 226
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 227
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 228
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 229
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 230
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 231
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 232
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 233
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 234
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 235
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 236
+"../../../Engine/Content/EngineMaterials/Grid.uexp" 237
+"../../../Engine/Content/EngineMaterials/Grid.ubulk" 238
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 239
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uexp" 240
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 241
+"../../../Engine/Content/EditorMeshes/EditorCube.uexp" 242
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 243
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uexp" 244
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 245
+"../../../Engine/Content/EditorMeshes/EditorPlane.uexp" 246
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 247
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 248
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 249
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uexp" 250
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 251
+"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 252
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 253
+"../../../Engine/Content/EditorResources/MatineeCam_D.uexp" 254
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 255
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uexp" 256
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 257
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uexp" 258
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 259
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uexp" 260
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 261
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uexp" 262
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 263
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uexp" 264
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 265
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 266
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 267
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uexp" 268
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 269
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uexp" 270
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 271
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 272
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 273
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 274
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 275
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 276
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 277
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 278
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 279
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 280
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 281
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 282
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 283
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 284
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 285
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 286
+"../../../Engine/Content/EditorResources/Bad.uasset" 287
+"../../../Engine/Content/EditorResources/Bad.uexp" 288
+"../../../Engine/Content/EditorResources/Bad.ubulk" 289
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 290
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 291
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 292
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 293
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 294
+"../../../Engine/Content/EditorResources/MatInstActSprite.uexp" 295
+"../../../Engine/Content/EditorResources/MatInstActSprite.ubulk" 296
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 297
+"../../../Engine/Content/EditorResources/SceneManager.uexp" 298
+"../../../Engine/Content/EditorResources/SceneManager.ubulk" 299
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 300
+"../../../Engine/Content/EditorResources/SmallFont.uexp" 301
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 302
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 303
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 304
+"../../../Engine/Content/EditorResources/S_CameraShakeSource.uasset" 305
+"../../../Engine/Content/EditorResources/S_CameraShakeSource.uexp" 306
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 307
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uexp" 308
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.ubulk" 309
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 310
+"../../../Engine/Content/EditorResources/S_Emitter.uexp" 311
+"../../../Engine/Content/EditorResources/S_Emitter.ubulk" 312
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 313
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uexp" 314
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.ubulk" 315
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 316
+"../../../Engine/Content/EditorResources/S_FTest.uexp" 317
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 318
+"../../../Engine/Content/EditorResources/S_KBSJoint.uexp" 319
+"../../../Engine/Content/EditorResources/S_KBSJoint.ubulk" 320
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 321
+"../../../Engine/Content/EditorResources/S_KHinge.uexp" 322
+"../../../Engine/Content/EditorResources/S_KHinge.ubulk" 323
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 324
+"../../../Engine/Content/EditorResources/S_KPrismatic.uexp" 325
+"../../../Engine/Content/EditorResources/S_KPrismatic.ubulk" 326
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 327
+"../../../Engine/Content/EditorResources/S_LevelSequence.uexp" 328
+"../../../Engine/Content/EditorResources/S_LevelSequence.ubulk" 329
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 330
+"../../../Engine/Content/EditorResources/S_NavP.uexp" 331
+"../../../Engine/Content/EditorResources/S_NavP.ubulk" 332
+"../../../Engine/Content/EditorResources/S_Note.uasset" 333
+"../../../Engine/Content/EditorResources/S_Note.uexp" 334
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 335
+"../../../Engine/Content/EditorResources/S_Player.uasset" 336
+"../../../Engine/Content/EditorResources/S_Player.uexp" 337
+"../../../Engine/Content/EditorResources/S_Player.ubulk" 338
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 339
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uexp" 340
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.ubulk" 341
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 342
+"../../../Engine/Content/EditorResources/S_RadForce.uexp" 343
+"../../../Engine/Content/EditorResources/S_RadForce.ubulk" 344
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 345
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uexp" 346
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.ubulk" 347
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uasset" 348
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uexp" 349
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.ubulk" 350
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 351
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 352
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 353
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 354
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 355
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 356
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 357
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uexp" 358
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.ubulk" 359
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 360
+"../../../Engine/Content/EditorResources/S_Thruster.uexp" 361
+"../../../Engine/Content/EditorResources/S_Thruster.ubulk" 362
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 363
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 364
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 365
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 366
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uexp" 367
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.ubulk" 368
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.uasset" 369
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.uexp" 370
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.ubulk" 371
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 372
+"../../../Engine/Content/EditorResources/S_WindDirectional.uexp" 373
+"../../../Engine/Content/EditorResources/S_WindDirectional.ubulk" 374
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 375
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uexp" 376
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 377
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uexp" 378
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 379
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uexp" 380
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 381
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uexp" 382
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 383
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 384
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 385
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uexp" 386
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 387
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uexp" 388
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 389
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uexp" 390
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 391
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uexp" 392
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 393
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 394
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 395
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 396
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 397
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uexp" 398
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 399
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uexp" 400
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 401
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uexp" 402
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 403
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 404
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 405
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uexp" 406
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.ubulk" 407
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 408
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uexp" 409
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 410
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uexp" 411
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 412
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uexp" 413
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 414
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 415
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 416
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 417
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 418
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uexp" 419
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 421
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 422
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uexp" 423
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 424
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uexp" 425
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 426
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 427
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 428
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 429
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uexp" 430
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 431
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 432
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 433
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 434
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 435
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 436
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 437
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 438
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 439
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 440
+"../../../Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uasset" 441
+"../../../Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uexp" 442
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 443
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uexp" 444
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 445
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uexp" 446
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 447
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 448
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 449
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uexp" 450
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 451
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uexp" 452
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 453
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uexp" 454
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 455
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uexp" 456
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 457
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uexp" 458
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 459
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 460
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 461
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 462
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 463
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 464
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 465
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 466
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 467
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 468
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 469
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 470
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 471
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 472
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 473
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 474
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 475
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 476
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 477
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 478
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 479
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 480
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 481
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uexp" 482
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.ufont" 483
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 484
+"../../../Engine/Content/EngineFonts/RobotoTiny.uexp" 485
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 486
+"../../../Engine/Content/EngineFonts/SmallFont.uexp" 487
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 488
+"../../../Engine/Content/EngineFonts/TinyFont.uexp" 489
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 490
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 491
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 492
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 493
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 494
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 495
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 496
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 497
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 498
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 499
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 500
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 501
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 502
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uexp" 503
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 504
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 505
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 506
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 507
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 508
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 509
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 510
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 511
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 512
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 513
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 514
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 515
+"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 516
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 517
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 518
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 519
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 520
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 521
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 522
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 523
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uexp" 524
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 525
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 526
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 527
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 528
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 529
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 530
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 531
+"../../../Engine/Content/EngineMaterials/Grid_N.uexp" 532
+"../../../Engine/Content/EngineMaterials/Grid_N.ubulk" 533
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 534
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uexp" 535
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 536
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uexp" 537
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 538
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uexp" 539
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 540
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uexp" 541
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 542
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uexp" 543
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 544
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 545
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 546
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 547
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 548
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 549
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uexp" 550
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 551
+"../../../Engine/Content/EngineMaterials/PaperNormal.uexp" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 554
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 555
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 556
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 557
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uexp" 558
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 559
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 560
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 561
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 562
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 563
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 564
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 565
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 566
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 567
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 568
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 569
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 570
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 571
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 572
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 573
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uexp" 574
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 576
+"../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uasset" 577
+"../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uexp" 578
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 579
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 580
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 581
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 582
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 583
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 584
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 585
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 586
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 587
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 588
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 589
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 590
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 591
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 592
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 593
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 594
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 595
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 596
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 597
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 598
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 599
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 600
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 601
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 602
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 603
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 604
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 605
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 606
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 607
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 608
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uexp" 609
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 610
+"../../../Engine/Content/EngineResources/M_StreamingPause.uexp" 611
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 612
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 613
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 614
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 615
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 616
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 617
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 618
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 619
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 620
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 621
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 622
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 623
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 624
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 625
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 626
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 627
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 628
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 629
+"../../../Engine/Content/EngineSounds/Master.uasset" 630
+"../../../Engine/Content/EngineSounds/Master.uexp" 631
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 632
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 633
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 634
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 635
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 636
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 637
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 638
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 639
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 640
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 641
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 642
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 643
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 644
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 645
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 646
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 647
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 648
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 649
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 650
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 651
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 652
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 653
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 654
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 655
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 656
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 657
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 658
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 659
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 660
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 661
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 662
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 663
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 664
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 665
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 666
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 667
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 668
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 669
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 670
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 671
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 672
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 673
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 674
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 675
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 676
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 677
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 678
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 679
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 680
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 681
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 682
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 683
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 684
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uexp" 685
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 686
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 687
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 688
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 689
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 690
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 691
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 692
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 693
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 694
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 695
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 696
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 697
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 698
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 699
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 700
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 701
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 702
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 703
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 704
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 705
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 706
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 707
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 708
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 709
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 710
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 711
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 712
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 713
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 714
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 715
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 716
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 717
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 718
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 719
+"../../../Engine/Plugins/Experimental/CommonUI/Content/VideoPlayerMaterial.uasset" 720
+"../../../Engine/Plugins/Experimental/CommonUI/Content/VideoPlayerMaterial.uexp" 721
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 722
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 723
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/S_ParticleSystem.uasset" 724
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/S_ParticleSystem.uexp" 725
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/S_ParticleSystem.ubulk" 726
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 727
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 728
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 729
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 730
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 731
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 732
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 733
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 734
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 735
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 736
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 737
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 738
+"../../../Engine/Content/EngineResources/Black.uasset" 739
+"../../../Engine/Content/EngineResources/Black.uexp" 740
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 741
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 742
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 743
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 744
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 745
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 746
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 747
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 748
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 749
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 750
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 751
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 752
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 753
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 754
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 755
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 756
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 757
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 758
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 759
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 760
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 761
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 762
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 763
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 764
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 765
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 766
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 767
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 768
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 769
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 770
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 771
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 772
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 773
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 774
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 775
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 776
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 777
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 778
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 779
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 780
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 781
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 782
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 783
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 784
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 785
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 786
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 787
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 788
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 789
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 790
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 791
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 792
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 793
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 794
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 795
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 796
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 797
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 798
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 799
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 800
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 801
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 802
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 803
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 804
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 805
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 806
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 807
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 808
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 809
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 810
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 811
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 812
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 813
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 814
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 815
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp" 816
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.ubulk" 817
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 818
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp" 819
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.ubulk" 820
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 821
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 822
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 823
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 824
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 825
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 826
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 827
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 828
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 829
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 830
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 831
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 832
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 833
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 834
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 835
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 836
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 837
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 838
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 839
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 840
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 841
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 842
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 843
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 844
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 845
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 846
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 847
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 848
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 849
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 850
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 851
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 852
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 853
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 854
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 855
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 856
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 857
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 858
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 859
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 860
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 861
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 862
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 863
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 864
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 865
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 866
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 867
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 868
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 869
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 870
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 871
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 872
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 873
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 874
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 875
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 876
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 877
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 878
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 879
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 880
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 881
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 882
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 883
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 884
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 885
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 886
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 887
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 888
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 889
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 890
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 891
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 892
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 893
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 894
+"../../../Engine/Content/Maps/Entry.uexp" 895
+"../../../Engine/Content/Maps/Entry.umap" 896
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_lemak.uasset" 897
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_lemak.uexp" 898
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_LoadingMenu.uasset" 899
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_LoadingMenu.uexp" 900
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Wallpaper/MMM_logo.uasset" 901
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Wallpaper/MMM_logo.uexp" 902
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__3_.uasset" 903
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__3_.uexp" 904
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 905
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 906
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__3__Sprite.uasset" 907
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__3__Sprite.uexp" 908
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__2_.uasset" 909
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__2_.uexp" 910
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__2__Sprite.uasset" 911
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_Play_Button/play_button__2__Sprite.uexp" 912
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/quit_button.uasset" 913
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/quit_button.uexp" 914
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/quit_button_Sprite.uasset" 915
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/quit_button_Sprite.uexp" 916
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/play_button.uasset" 917
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/play_button.uexp" 918
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/play_button_Sprite.uasset" 919
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/Workshop_II_MainMenu/play_button_Sprite.uexp" 920
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/baling_barang.uasset" 921
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/baling_barang.uexp" 922
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_MainMenu.uasset" 923
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_MainMenu.uexp" 924
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/The_Builder.uasset" 925
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/The_Builder.uexp" 926
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Maps/MainMenu.uexp" 927
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Maps/MainMenu.umap" 928
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/Street_Fighter_5_-_Ken_s_Theme__SFV_OST_.uasset" 929
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/Street_Fighter_5_-_Ken_s_Theme__SFV_OST_.uexp" 930
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Maps/Showcase_BuiltData.uasset" 931
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Maps/Showcase_BuiltData.uexp" 932
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Maps/Showcase_BuiltData.ubulk" 933
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Timun.uasset" 934
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Timun.uexp" 935
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Timun_Sprite.uasset" 936
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Timun_Sprite.uexp" 937
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi.uasset" 938
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi.uexp" 939
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_Sprite.uasset" 940
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_Sprite.uexp" 941
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/doh_tepung.uasset" 942
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/doh_tepung.uexp" 943
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/doh_tepung_Sprite.uasset" 944
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/doh_tepung_Sprite.uexp" 945
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili_baru.uasset" 946
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili_baru.uexp" 947
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili_baru_Sprite.uasset" 948
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili_baru_Sprite.uexp" 949
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_baru.uasset" 950
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_baru.uexp" 951
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_baru_Sprite.uasset" 952
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_baru_Sprite.uexp" 953
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Color.uasset" 954
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Color.uexp" 955
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Wood_Inst.uasset" 956
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Wood_Inst.uexp" 957
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_White_Inst.uasset" 958
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_White_Inst.uexp" 959
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalMedium_Inst.uasset" 960
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalMedium_Inst.uexp" 961
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalLight_Inst.uasset" 962
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalLight_Inst.uexp" 963
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalDark_Inst.uasset" 964
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalDark_Inst.uexp" 965
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Glass_Inst.uasset" 966
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Glass_Inst.uexp" 967
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_Grill.uasset" 968
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_Grill.uexp" 969
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_IngredientProgressBar.uasset" 970
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_IngredientProgressBar.uexp" 971
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_WoodDark_Inst.uasset" 972
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_WoodDark_Inst.uexp" 973
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_KitchenDesk.uasset" 974
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_KitchenDesk.uexp" 975
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_KitchenDesk.uasset" 976
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_KitchenDesk.uexp" 977
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_BrownLight_Inst.uasset" 978
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_BrownLight_Inst.uexp" 979
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Brown_Inst.uasset" 980
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Brown_Inst.uexp" 981
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_CuttingBoard.uasset" 982
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_CuttingBoard.uexp" 983
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Specular.uasset" 984
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Specular.uexp" 985
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Specular.ubulk" 986
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Roughness.uasset" 987
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Roughness.uexp" 988
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Roughness.ubulk" 989
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Base_Color.uasset" 990
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Base_Color.uexp" 991
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/carpet_Base_Color.ubulk" 992
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Carpet.uasset" 993
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Carpet.uexp" 994
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_ChoppingTable.uasset" 995
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_ChoppingTable.uexp" 996
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/roti_canai.uasset" 997
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/roti_canai.uexp" 998
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/roti_canai_Sprite.uasset" 999
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/roti_canai_Sprite.uexp" 1000
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili.uasset" 1001
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili.uexp" 1002
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili_Sprite.uasset" 1003
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/cili_Sprite.uexp" 1004
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_RotiCanai.uasset" 1005
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_RotiCanai.uexp" 1006
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_lemak_Sprite.uasset" 1007
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_lemak_Sprite.uexp" 1008
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_Order_NasiLemak.uasset" 1009
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_Order_NasiLemak.uexp" 1010
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_ayam.uasset" 1011
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_ayam.uexp" 1012
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_ayam_Sprite.uasset" 1013
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/nasi_ayam_Sprite.uexp" 1014
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/beras.uasset" 1015
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/beras.uexp" 1016
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/beras_Sprite.uasset" 1017
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/beras_Sprite.uexp" 1018
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_goreng.uasset" 1019
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_goreng.uexp" 1020
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_goreng_Sprite.uasset" 1021
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/ayam_goreng_Sprite.uexp" 1022
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_Order_NasiAyam.uasset" 1023
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_Order_NasiAyam.uexp" 1024
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Square_1.uasset" 1025
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Square_1.uexp" 1026
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Square_1_Sprite.uasset" 1027
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Square_1_Sprite.uexp" 1028
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Cross_1.uasset" 1029
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Cross_1.uexp" 1030
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Cross_1_Sprite.uasset" 1031
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Main_Buttons/Button_-_PS_Cross_1_Sprite.uexp" 1032
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Analogue_L_Inputs/Button_-_PS_Analogue_L.uasset" 1033
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Analogue_L_Inputs/Button_-_PS_Analogue_L.uexp" 1034
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Analogue_L_Inputs/Button_-_PS_Analogue_L_Sprite.uasset" 1035
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/PS4_BUTTONS_-_Premium_Assets/PS4_BUTTONS_-_Premium_Assets/Analogue_L_Inputs/Button_-_PS_Analogue_L_Sprite.uexp" 1036
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_HUD.uasset" 1037
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_HUD.uexp" 1038
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Enumerations/Enum_DIshes.uasset" 1039
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Enumerations/Enum_DIshes.uexp" 1040
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Structures/STR_OrderInfo.uasset" 1041
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Structures/STR_OrderInfo.uexp" 1042
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/service_bell.uasset" 1043
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/service_bell.uexp" 1044
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/potong.uasset" 1045
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/potong.uexp" 1046
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/picukp.uasset" 1047
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sound_Asset/picukp.uexp" 1048
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Enumerations/Enum_Ingredients.uasset" 1049
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Enumerations/Enum_Ingredients.uexp" 1050
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong_03.uasset" 1051
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong_03.uexp" 1052
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong_02.uasset" 1053
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong_02.uexp" 1054
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong_01.uasset" 1055
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong_01.uexp" 1056
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong.uasset" 1057
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/TimunPotong.uexp" 1058
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_TimunPotong.uasset" 1059
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_TimunPotong.uexp" 1060
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Timun_ncl1_1.uasset" 1061
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Timun_ncl1_1.uexp" 1062
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Timun_ncl1_1.ubulk" 1063
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Timun1.uasset" 1064
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Timun1.uexp" 1065
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Timun.uasset" 1066
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Timun.uexp" 1067
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Timun.uasset" 1068
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Timun.uexp" 1069
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/sambal.uasset" 1070
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/sambal.uexp" 1071
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Red_Inst.uasset" 1072
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Red_Inst.uexp" 1073
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Sambal.uasset" 1074
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Sambal.uexp" 1075
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Plate.uasset" 1076
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Plate.uexp" 1077
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_BrownDark_Inst.uasset" 1078
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_BrownDark_Inst.uexp" 1079
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/nasi.uasset" 1080
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/nasi.uexp" 1081
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_BrownDarkest_Inst.uasset" 1082
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_BrownDarkest_Inst.uexp" 1083
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerMeat_Grilled.uasset" 1084
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerMeat_Grilled.uexp" 1085
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_RedLight_Inst.uasset" 1086
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_RedLight_Inst.uexp" 1087
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Tomato_Chopped.uasset" 1088
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Tomato_Chopped.uexp" 1089
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Green_Ins.uasset" 1090
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Green_Ins.uexp" 1091
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Lettuce_Chopped.uasset" 1092
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Lettuce_Chopped.uexp" 1093
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerBun_Top.uasset" 1094
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerBun_Top.uexp" 1095
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerBun_Buttom.uasset" 1096
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerBun_Buttom.uexp" 1097
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Tulang_Ayam.uasset" 1098
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Tulang_Ayam.uexp" 1099
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Ayam1.uasset" 1100
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Ayam1.uexp" 1101
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Ayam.uasset" 1102
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Ayam.uexp" 1103
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_AyamGoreng.uasset" 1104
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_AyamGoreng.uexp" 1105
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Nasi.uasset" 1106
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Nasi.uexp" 1107
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_GrilledMeat.uasset" 1108
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_GrilledMeat.uexp" 1109
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/RotiCanai-1.uasset" 1110
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/RotiCanai-1.uexp" 1111
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/RotiCanai1.uasset" 1112
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/RotiCanai1.uexp" 1113
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/RotiCanai.uasset" 1114
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/RotiCanai.uexp" 1115
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_DohRoti.uasset" 1116
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_DohRoti.uexp" 1117
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_ChoopedTomato.uasset" 1118
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_ChoopedTomato.uexp" 1119
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_ChoopedLettuce.uasset" 1120
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_ChoopedLettuce.uexp" 1121
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Bread.uasset" 1122
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Bread.uexp" 1123
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sambal_02.uasset" 1124
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sambal_02.uexp" 1125
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sambal_01.uasset" 1126
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sambal_01.uexp" 1127
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sambal.uasset" 1128
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sambal.uexp" 1129
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/SingleDoor.uasset" 1130
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/SingleDoor.uexp" 1131
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Plate.uasset" 1132
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Plate.uexp" 1133
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerMeat.uasset" 1134
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_BurgerMeat.uexp" 1135
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Meat.uasset" 1136
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Meat.uexp" 1137
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Lettuce.uasset" 1138
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Lettuce.uexp" 1139
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Lettuce.uasset" 1140
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Lettuce.uexp" 1141
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/cili_potong.uasset" 1142
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/cili_potong.uexp" 1143
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_CiliPotong.uasset" 1144
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_CiliPotong.uexp" 1145
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness_ncl1_1.uasset" 1146
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness_ncl1_1.uexp" 1147
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness_ncl1_1.ubulk" 1148
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL_ncl1_1.uasset" 1149
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL_ncl1_1.uexp" 1150
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL_ncl1_1.ubulk" 1151
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color_ncl1_1.uasset" 1152
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color_ncl1_1.uexp" 1153
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color_ncl1_1.ubulk" 1154
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_top.uasset" 1155
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_top.uexp" 1156
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness.uasset" 1157
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness.uexp" 1158
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Roughness.ubulk" 1159
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL.uasset" 1160
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL.uexp" 1161
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Normal_OpenGL.ubulk" 1162
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color.uasset" 1163
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color.uexp" 1164
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper_Base_Color.ubulk" 1165
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper.uasset" 1166
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/pepper.uexp" 1167
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/cili.uasset" 1168
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/cili.uexp" 1169
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Cili.uasset" 1170
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Cili.uexp" 1171
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/ayam.uasset" 1172
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/ayam.uexp" 1173
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Ayam.uasset" 1174
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Ayam.uexp" 1175
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Metal_Inst.uasset" 1176
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_Metal_Inst.uexp" 1177
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalDarkest_Inst.uasset" 1178
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/M_MetalDarkest_Inst.uexp" 1179
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_TrashBin.uasset" 1180
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Furnitures/SM_TrashBin.uexp" 1181
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_TrashBin.uasset" 1182
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_TrashBin.uexp" 1183
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Tomato.uasset" 1184
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Ingredients/SM_Tomato.uexp" 1185
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Tomato.uasset" 1186
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Tomato.uexp" 1187
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Tomato.uasset" 1188
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Tomato.uexp" 1189
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Tomato.ubulk" 1190
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Tomato.uasset" 1191
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Tomato.uexp" 1192
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Meat.uasset" 1193
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Meat.uexp" 1194
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Meat.ubulk" 1195
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Meat.uasset" 1196
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Meat.uexp" 1197
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Lettuce.uasset" 1198
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Lettuce.uexp" 1199
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Lettuce.ubulk" 1200
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Lettuce.uasset" 1201
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Lettuce.uexp" 1202
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Bread.uasset" 1203
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Bread.uexp" 1204
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_Bread.ubulk" 1205
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Bread.uasset" 1206
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_Bread.uexp" 1207
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/PemegangPeti.uasset" 1208
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/PemegangPeti.uexp" 1209
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/fridge.uasset" 1210
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/fridge.uexp" 1211
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/PetiAis_FridgeDoor.uasset" 1212
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/PetiAis_FridgeDoor.uexp" 1213
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/PetiAis_Fridge.uasset" 1214
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/PetiAis_Fridge.uexp" 1215
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_IngredientDispatcher.uasset" 1216
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_IngredientDispatcher.uexp" 1217
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_DeliverStation.uasset" 1218
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_DeliverStation.uexp" 1219
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Ingredients/T_DeliverStation.ubulk" 1220
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_DeliveryStation.uasset" 1221
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/SP_DeliveryStation.uexp" 1222
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_DeliveryStation.uasset" 1223
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_DeliveryStation.uexp" 1224
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1225
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uexp" 1226
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_UE4Logo_N.uasset" 1227
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_UE4Logo_N.uexp" 1228
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_UE4Logo_N.ubulk" 1229
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_UE4Logo_Mask.uasset" 1230
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_UE4Logo_Mask.uexp" 1231
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_UE4Logo_Mask.ubulk" 1232
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_Male_N.uasset" 1233
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_Male_N.uexp" 1234
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_Male_N.ubulk" 1235
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_Male_Mask.uasset" 1236
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_Male_Mask.uexp" 1237
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Textures/Mannequin/T_Male_Mask.ubulk" 1238
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1239
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1240
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1241
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1242
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1243
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1244
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Aluminum01_N.uasset" 1245
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Aluminum01_N.uexp" 1246
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1247
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Aluminum01.uasset" 1248
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Aluminum01.uexp" 1249
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/T_ML_Aluminum01.ubulk" 1250
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_SoftMetal_UE4.uasset" 1251
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_SoftMetal_UE4.uexp" 1252
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1253
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 1254
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1255
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1256
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1257
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1258
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1259
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1261
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 1262
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1263
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1264
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/M_Male_Body.uasset" 1265
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/M_Male_Body.uexp" 1266
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/M_UE4Man_ChestLogo.uasset" 1267
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Materials/Mannequin/M_UE4Man_ChestLogo.uexp" 1268
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 1269
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Mannequin/Mesh/UE4_Mannequin_Skeleton.uexp" 1270
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Mannequin/Mesh/SK_Mannequin.uasset" 1271
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Meshes/Mannequin/Mesh/SK_Mannequin.uexp" 1272
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/baju_1.uasset" 1273
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/baju_1.uexp" 1274
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/apron_1.uasset" 1275
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/apron_1.uexp" 1276
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 1277
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 1278
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 1279
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 1280
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonWalk.uasset" 1281
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonWalk.uexp" 1282
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonRun.uasset" 1283
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonRun.uexp" 1284
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonIdle.uasset" 1285
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonIdle.uexp" 1286
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPerson_IdleRun_2D.uasset" 1287
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPerson_IdleRun_2D.uexp" 1288
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPerson_Jump.uasset" 1289
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPerson_Jump.uexp" 1290
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonJump_Start.uasset" 1291
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonJump_Start.uexp" 1292
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonJump_Loop.uasset" 1293
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPersonJump_Loop.uexp" 1294
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1295
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 1296
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPerson_AnimBP.uasset" 1297
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Animations/ThirdPerson_AnimBP.uexp" 1298
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/BP_Character.uasset" 1299
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/BP_Character.uexp" 1300
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/BPC_CookingSystem.uasset" 1301
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/BPC_CookingSystem.uexp" 1302
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Ingredient.uasset" 1303
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Ingredients/BP_Ingredient.uexp" 1304
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DapurKnob.uasset" 1305
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DapurKnob.uexp" 1306
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Dapur.uasset" 1307
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Dapur.uexp" 1308
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DapurMasak.uasset" 1309
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DapurMasak.uexp" 1310
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_Grill.uasset" 1311
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/Furnitures/BP_Grill.uexp" 1312
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/restart.uasset" 1313
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/restart.uexp" 1314
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/restart_Sprite.uasset" 1315
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/restart_Sprite.uexp" 1316
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/play.uasset" 1317
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/play.uexp" 1318
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/play_Sprite.uasset" 1319
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/play_Sprite.uexp" 1320
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/home.uasset" 1321
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Sprites/buttons_text_pack/home.uexp" 1322
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_PauseMenu.uasset" 1323
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Widgets/WB_PauseMenu.uexp" 1324
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/BP_GameMode.uasset" 1325
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/BP_GameMode.uexp" 1326
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/LocalMultiplayerCamera.uasset" 1327
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Blueprints/LocalMultiplayerCamera.uexp" 1328
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sinki.uasset" 1329
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Sinki.uexp" 1330
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Pili.uasset" 1331
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Pili.uexp" 1332
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/LubangSinki.uasset" 1333
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/LubangSinki.uexp" 1334
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DoorKnob.uasset" 1335
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DoorKnob.uexp" 1336
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Cabinet4.uasset" 1337
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Cabinet4.uexp" 1338
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/CabinetDoor.uasset" 1339
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/CabinetDoor.uexp" 1340
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_02_Sinki_002.uasset" 1341
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_02_Sinki_002.uexp" 1342
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/WindowFrame.uasset" 1343
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/WindowFrame.uexp" 1344
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wall_Inner.uasset" 1345
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wall_Inner.uexp" 1346
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wall_02.uasset" 1347
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wall_02.uexp" 1348
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_SmallWindow_02_002.uasset" 1349
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_SmallWindow_02_002.uexp" 1350
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_SmallWindow_02_001.uasset" 1351
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_SmallWindow_02_001.uexp" 1352
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wall.uasset" 1353
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wall.uexp" 1354
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_01_003.uasset" 1355
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_01_003.uexp" 1356
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Counter2.uasset" 1357
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Counter2.uexp" 1358
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_01_002.uasset" 1359
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_01_002.uexp" 1360
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_01_001.uasset" 1361
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_01_001.uexp" 1362
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_008.uasset" 1363
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_008.uexp" 1364
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_007.uasset" 1365
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_BigWindow_007.uexp" 1366
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_061.uasset" 1367
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_061.uexp" 1368
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_059.uasset" 1369
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_059.uexp" 1370
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_055.uasset" 1371
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_055.uexp" 1372
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_054.uasset" 1373
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_054.uexp" 1374
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_053.uasset" 1375
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_053.uexp" 1376
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_052.uasset" 1377
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_052.uexp" 1378
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_051.uasset" 1379
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_051.uexp" 1380
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_050.uasset" 1381
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_050.uexp" 1382
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_049.uasset" 1383
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_049.uexp" 1384
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_046.uasset" 1385
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_046.uexp" 1386
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_045.uasset" 1387
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_045.uexp" 1388
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_042.uasset" 1389
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_042.uexp" 1390
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_041.uasset" 1391
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_041.uexp" 1392
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_036.uasset" 1393
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_036.uexp" 1394
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_035.uasset" 1395
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_035.uexp" 1396
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_037.uasset" 1397
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_037.uexp" 1398
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_036.uasset" 1399
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_036.uexp" 1400
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_035.uasset" 1401
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_035.uexp" 1402
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_034.uasset" 1403
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_034.uexp" 1404
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_033.uasset" 1405
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_033.uexp" 1406
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_030.uasset" 1407
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_030.uexp" 1408
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_029.uasset" 1409
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_029.uexp" 1410
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_028.uasset" 1411
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_028.uexp" 1412
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_026.uasset" 1413
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_026.uexp" 1414
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_023.uasset" 1415
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_023.uexp" 1416
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_021.uasset" 1417
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_021.uexp" 1418
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_020.uasset" 1419
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_020.uexp" 1420
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_018.uasset" 1421
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_018.uexp" 1422
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_015.uasset" 1423
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Wall_02_015.uexp" 1424
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material_003.uasset" 1425
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material_003.uexp" 1426
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material_002.uasset" 1427
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material_002.uexp" 1428
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material_001.uasset" 1429
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material_001.uexp" 1430
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_005.uasset" 1431
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_005.uexp" 1432
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_004.uasset" 1433
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_004.uexp" 1434
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_003.uasset" 1435
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_003.uexp" 1436
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_002.uasset" 1437
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_002.uexp" 1438
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_001.uasset" 1439
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Table_02_001.uexp" 1440
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material.uasset" 1441
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Material.uexp" 1442
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_070.uasset" 1443
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_070.uexp" 1444
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_069.uasset" 1445
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_069.uexp" 1446
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_062.uasset" 1447
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_062.uexp" 1448
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_061.uasset" 1449
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_061.uexp" 1450
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_056.uasset" 1451
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_056.uexp" 1452
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_055.uasset" 1453
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_055.uexp" 1454
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_054.uasset" 1455
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_054.uexp" 1456
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_053.uasset" 1457
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_053.uexp" 1458
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_052.uasset" 1459
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_052.uexp" 1460
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_051.uasset" 1461
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_051.uexp" 1462
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_050.uasset" 1463
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_050.uexp" 1464
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_049.uasset" 1465
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_049.uexp" 1466
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_048.uasset" 1467
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_048.uexp" 1468
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_047.uasset" 1469
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_047.uexp" 1470
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_046.uasset" 1471
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_046.uexp" 1472
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_045.uasset" 1473
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_045.uexp" 1474
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_043.uasset" 1475
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_043.uexp" 1476
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_042.uasset" 1477
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_042.uexp" 1478
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_041.uasset" 1479
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_041.uexp" 1480
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_040.uasset" 1481
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_040.uexp" 1482
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_039.uasset" 1483
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_039.uexp" 1484
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_038.uasset" 1485
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_038.uexp" 1486
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_037.uasset" 1487
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_037.uexp" 1488
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_036.uasset" 1489
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_036.uexp" 1490
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_035.uasset" 1491
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_035.uexp" 1492
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_034.uasset" 1493
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_034.uexp" 1494
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_033.uasset" 1495
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_033.uexp" 1496
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_032.uasset" 1497
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_032.uexp" 1498
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_031.uasset" 1499
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_031.uexp" 1500
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_030.uasset" 1501
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_030.uexp" 1502
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_029.uasset" 1503
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_029.uexp" 1504
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_028.uasset" 1505
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_028.uexp" 1506
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_027.uasset" 1507
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_027.uexp" 1508
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_026.uasset" 1509
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_026.uexp" 1510
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_044.uasset" 1511
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_044.uexp" 1512
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_025.uasset" 1513
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_025.uexp" 1514
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_024.uasset" 1515
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_024.uexp" 1516
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_023.uasset" 1517
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_stool_023.uexp" 1518
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_019.uasset" 1519
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_019.uexp" 1520
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_018.uasset" 1521
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_018.uexp" 1522
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_016.uasset" 1523
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_016.uexp" 1524
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_015.uasset" 1525
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_015.uexp" 1526
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_014.uasset" 1527
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_014.uexp" 1528
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_013.uasset" 1529
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_013.uexp" 1530
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_012.uasset" 1531
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_meja_merah_open_012.uexp" 1532
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_136.uasset" 1533
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_136.uexp" 1534
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_135.uasset" 1535
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_135.uexp" 1536
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_134.uasset" 1537
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_134.uexp" 1538
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_133.uasset" 1539
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_133.uexp" 1540
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_132.uasset" 1541
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_132.uexp" 1542
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_131.uasset" 1543
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_131.uexp" 1544
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_130.uasset" 1545
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_130.uexp" 1546
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_129.uasset" 1547
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_129.uexp" 1548
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_128.uasset" 1549
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_128.uexp" 1550
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_127.uasset" 1551
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_127.uexp" 1552
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_126.uasset" 1553
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_126.uexp" 1554
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_125.uasset" 1555
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_125.uexp" 1556
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_124.uasset" 1557
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_124.uexp" 1558
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_123.uasset" 1559
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_123.uexp" 1560
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_122.uasset" 1561
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_122.uexp" 1562
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_121.uasset" 1563
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_121.uexp" 1564
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_120.uasset" 1565
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_120.uexp" 1566
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_119.uasset" 1567
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_119.uexp" 1568
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_118.uasset" 1569
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_118.uexp" 1570
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_117.uasset" 1571
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_117.uexp" 1572
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_116.uasset" 1573
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_116.uexp" 1574
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_115.uasset" 1575
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_115.uexp" 1576
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_114.uasset" 1577
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_114.uexp" 1578
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_113.uasset" 1579
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_113.uexp" 1580
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_112.uasset" 1581
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_112.uexp" 1582
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_110.uasset" 1583
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_110.uexp" 1584
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_109.uasset" 1585
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_109.uexp" 1586
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_108.uasset" 1587
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_108.uexp" 1588
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_107.uasset" 1589
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_107.uexp" 1590
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_106.uasset" 1591
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_106.uexp" 1592
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_105.uasset" 1593
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_105.uexp" 1594
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_104.uasset" 1595
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_104.uexp" 1596
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_103.uasset" 1597
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_103.uexp" 1598
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_102.uasset" 1599
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_102.uexp" 1600
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_101.uasset" 1601
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_101.uexp" 1602
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_100.uasset" 1603
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_100.uexp" 1604
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_099.uasset" 1605
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_099.uexp" 1606
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_098.uasset" 1607
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_098.uexp" 1608
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_097.uasset" 1609
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_097.uexp" 1610
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_096.uasset" 1611
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_096.uexp" 1612
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_095.uasset" 1613
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_095.uexp" 1614
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_094.uasset" 1615
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_094.uexp" 1616
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_093.uasset" 1617
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_093.uexp" 1618
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_111.uasset" 1619
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_111.uexp" 1620
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_092.uasset" 1621
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_092.uexp" 1622
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_091.uasset" 1623
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_091.uexp" 1624
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_090.uasset" 1625
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_090.uexp" 1626
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_089.uasset" 1627
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_03_089.uexp" 1628
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/wood-19_smooth.uasset" 1629
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/wood-19_smooth.uexp" 1630
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/wood-19_smooth.ubulk" 1631
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/wood-19_diffuse.uasset" 1632
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/wood-19_diffuse.uexp" 1633
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/wood-19_diffuse.ubulk" 1634
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wood_Floor.uasset" 1635
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Wood_Floor.uexp" 1636
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_121.uasset" 1637
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_121.uexp" 1638
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_120.uasset" 1639
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_120.uexp" 1640
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_119.uasset" 1641
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_119.uexp" 1642
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_118.uasset" 1643
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_118.uexp" 1644
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_117.uasset" 1645
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_117.uexp" 1646
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_116.uasset" 1647
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_116.uexp" 1648
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_115.uasset" 1649
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_115.uexp" 1650
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_114.uasset" 1651
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_114.uexp" 1652
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_113.uasset" 1653
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_113.uexp" 1654
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_112.uasset" 1655
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_112.uexp" 1656
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_111.uasset" 1657
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_111.uexp" 1658
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_110.uasset" 1659
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_110.uexp" 1660
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_109.uasset" 1661
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_109.uexp" 1662
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_108.uasset" 1663
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_108.uexp" 1664
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_107.uasset" 1665
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_107.uexp" 1666
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_106.uasset" 1667
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_106.uexp" 1668
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_105.uasset" 1669
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_105.uexp" 1670
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_103.uasset" 1671
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_103.uexp" 1672
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_102.uasset" 1673
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_102.uexp" 1674
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_101.uasset" 1675
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_101.uexp" 1676
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_100.uasset" 1677
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_100.uexp" 1678
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_099.uasset" 1679
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_099.uexp" 1680
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_098.uasset" 1681
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_098.uexp" 1682
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_097.uasset" 1683
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_097.uexp" 1684
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_096.uasset" 1685
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_096.uexp" 1686
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_095.uasset" 1687
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_095.uexp" 1688
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_094.uasset" 1689
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_094.uexp" 1690
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_093.uasset" 1691
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_093.uexp" 1692
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_092.uasset" 1693
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_092.uexp" 1694
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_091.uasset" 1695
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_091.uexp" 1696
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_090.uasset" 1697
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_090.uexp" 1698
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_089.uasset" 1699
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_089.uexp" 1700
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_088.uasset" 1701
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_088.uexp" 1702
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_087.uasset" 1703
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_087.uexp" 1704
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_086.uasset" 1705
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_086.uexp" 1706
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_104.uasset" 1707
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_104.uexp" 1708
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_085.uasset" 1709
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_085.uexp" 1710
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_084.uasset" 1711
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_084.uexp" 1712
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_083.uasset" 1713
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_083.uexp" 1714
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_082.uasset" 1715
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Floor_02_082.uexp" 1716
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DoorHandle.uasset" 1717
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DoorHandle.uexp" 1718
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DoorGlass.uasset" 1719
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/DoorGlass.uexp" 1720
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Door.uasset" 1721
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Door.uexp" 1722
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_DoubleDoor_003.uasset" 1723
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_DoubleDoor_003.uexp" 1724
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/SingleDoorFrame.uasset" 1725
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/SingleDoorFrame.uexp" 1726
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Cube_026.uasset" 1727
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Assets/Level_01_Cube_026.uexp" 1728
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1729
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1730
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1731
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1732
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1733
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1734
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1735
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1736
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1737
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1738
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1739
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1740
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1741
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1742
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1743
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1744
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1745
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1746
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1747
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1748
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1749
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1750
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1751
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Maps/Showcase.uexp" 1752
+"D:/Degree/SEM 5/Workshop 2/Workshop2_2023/Workshop2_2023/Content/CookingSystemComponent/Maps/Showcase.umap" 1753
